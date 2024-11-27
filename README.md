@@ -31,7 +31,7 @@ Autoformat Notepad V1.0 is an advanced text editor that automatically identifies
 - pygments library
 
 #
-### Updating Windows Notepad and Notepad ++
+### Windows Notepad and Notepad ++
 
 The Autoformat Notepad V1.0 represents a significant leap forward in text editing technology, particularly when compared to standard tools like Windows Notepad or even Notepad++. By integrating automatic syntax highlighting and file format detection, it offers a more intuitive and productive environment for developers who work with multiple programming languages. This capability would be a remarkable update for Notepad++ or Windows Notepad, as it would reduce the need for manual setup or extension management, making these popular tools more versatile and adaptive to various coding environments.
 
