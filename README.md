@@ -38,6 +38,11 @@ The Autoformat Notepad V1.0 represents a significant leap forward in text editin
 Moreover, the inclusion of theme-switching capabilities in the Autoformat Notepad V1.0, allowing users to toggle between dark and light modes, enhances visual comfort and reduces eye strain during long coding sessions. This feature, combined with advanced functionalities like undo/redo commands and direct file operations, could significantly elevate the user experience of legacy applications like Windows Notepad. For Notepad++, which already boasts a strong feature set, integrating these dynamic file format and theme toggling features could solidify its position as a leading tool for coding, notetaking, and text editing among professionals and hobbyists alike.
 
 #
+### Notepad++ Update
+
+Sourceduty is proposing to license Autoformat Notepad, a software tool developed to enhance text editing with advanced features like multiple programming language syntax highlighting and theme switching, to Notepad++ under the GNU General Public License (GPL) at no cost. By aligning with Notepad++'s existing GPL compliance, this integration ensures seamless compatibility and legal integrity. Offering Autoformat Notepad for free aims to enrich the Notepad++ community by improving the editor's functionality and promoting wider collaboration. Sourceduty is committed to supporting the initial integration process with updates and technical assistance and is keen to discuss this opportunity further. 
+
+#
 ### Related Links
 
 [Notepad Image](https://github.com/sourceduty/Notepad_Image)
