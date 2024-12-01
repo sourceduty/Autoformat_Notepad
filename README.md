@@ -40,7 +40,12 @@ Moreover, the inclusion of theme-switching capabilities in the Autoformat Notepa
 #
 ### Notepad++ Update
 
-Sourceduty is proposing to license Autoformat Notepad, a software tool developed to enhance text editing with advanced features like multiple programming language syntax highlighting and theme switching, to Notepad++ under the GNU General Public License (GPL) at no cost. By aligning with Notepad++'s existing GPL compliance, this integration ensures seamless compatibility and legal integrity. Offering Autoformat Notepad for free aims to enrich the Notepad++ community by improving the editor's functionality and promoting wider collaboration. Sourceduty is committed to supporting the initial integration process with updates and technical assistance and is keen to discuss this opportunity further. 
+Sourceduty is proposing to license Autoformat Notepad, a software tool developed to enhance text editing with advanced features like multiple programming language syntax highlighting and theme switching, to Notepad++ under the GNU General Public License (GPL) at no cost. By aligning with Notepad++'s existing GPL compliance, this integration ensures seamless compatibility and legal integrity. Offering Autoformat Notepad for free aims to enrich the Notepad++ community by improving the editor's functionality and promoting wider collaboration. Sourceduty is committed to supporting the initial integration process with updates and technical assistance and is keen to discuss this opportunity further.
+
+#
+### Future Feature
+
+Since Notepad++ has not shown interest, exploring other collaboration or distribution avenues could be beneficial. Partnering with open-source communities like Visual Studio Code extensions or Sublime Text plugins could integrate Autoformat Notepad's features into widely used platforms. Alternatively, releasing the tool on repositories like PyPI or software marketplaces such as GitHub Marketplace could increase visibility among developers. Engaging with educational platforms or coding bootcamps could also introduce the tool to new programmers as a learning aid. Finally, leveraging tech forums and communities like Stack Overflow or Reddit could spark interest and gather feedback to refine and promote the application.
 
 #
 ### Related Links
